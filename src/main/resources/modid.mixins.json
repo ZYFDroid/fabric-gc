@@ -1,12 +1,12 @@
 {
-  "required": true,
+  "required": false,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "com.zyfdroid.fabricgc.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+
   ],
   "injectors": {
     "defaultRequire": 1
